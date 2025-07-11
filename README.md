@@ -19,3 +19,9 @@ Backend: Django (Python)
 Database: SQLite
 Frontend: HTML/CSS (via Django templates)
 
+💻Deployment Link:
+You can check my web app using the following link:
+https://siddhirsutarjan25.pythonanywhere.com/
+
+
+
